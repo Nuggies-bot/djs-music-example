@@ -25,7 +25,7 @@ class ExtendedClient extends Client {
 	}
 
 	loadHandlers() {
-		const handlers = fs.readdirSync('./src/handlers');
+		const handlers = ['events', 'commands'];
 
 		handlers.forEach((handler) => {
 			const files = fs.readdirSync(`./src/${handler.split('.')[0]}`);
