@@ -13,5 +13,5 @@ Before you do use this package make sure to check out their [guide](https://disc
 
 ## Contact Developers
 
-Join our [support server](https://discord.gg/Z4ebH8PXeA) to contact us! You can also create an [issue](https://github.com/Nuggies-bot/djs-music-example/issues/new) if you have any queries, etc.
+Join our [support server](https://discord.gg/Z4ebH8PXeA) to contact us! You can also create an [issue](https://github.com/Nuggies-bot/djs-music-example/issues/new/choose) if you have any queries, etc.
 
