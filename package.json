@@ -21,7 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.6.0",
-    "@discordjs/voice": "^0.6.0",
+    "@discordjs/voice": "^0.7.3",
     "discord.js": "^13.1.0",
     "dotenv": "^10.0.0",
     "eslint": "^7.32.0",
