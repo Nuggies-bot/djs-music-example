@@ -28,7 +28,7 @@
     "ffmpeg-static": "^4.4.0",
     "libsodium-wrappers": "^0.7.9",
     "youtube-sr": "^4.1.10",
-    "ytdl-core": "^4.9.1",
+    "ytdl-core": "^4.11.2",
     "ytsr": "^3.5.3"
   }
 }
